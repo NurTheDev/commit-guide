@@ -132,7 +132,7 @@ Here's a realistic commit flow for implementing a user profile feature in a MERN
 
 ```bash
 # Start with setup
-chore: create user profile feature branch
+chore: set up user profile feature scaffolding
 
 # Backend development
 feat: add user profile model schema in MongoDB
@@ -171,7 +171,7 @@ chore: remove console.log statements
 
 **Common Types:**
 - `feat` - New features
-- `fix` - Bug fixes  
+- `fix` - Bug fixes
 - `refactor` - Code restructuring
 - `style` - Formatting
 - `docs` - Documentation
